@@ -70,7 +70,7 @@ export const getProjects = async (): Promise<Project[]> => {
       id: "2",
       title: "Brand Identity",
       category: "Graphics Design",
-      image: "https://images.unsplash.com/photo-1541462608141-ad4d157ee92a?w=800&q=80",
+      image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&q=80",
       link: "#",
     },
     {
